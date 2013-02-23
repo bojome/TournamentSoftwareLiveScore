@@ -1,0 +1,35 @@
+table {
+	border: 0px;
+	border-collapse: collapse;
+	border-style:solid;	
+	background-color:white;
+	color: black;
+	font-family: Consolas;
+  width:500px;	
+}
+
+th {
+  background-color:yellow;
+  font-size:20px;
+  border: 1px solid black;
+}
+
+td {
+	border: 1px solid black;
+}
+	
+td {
+	text-align: center;
+}
+	
+tr.filtered td {
+	background-color:yellow;
+}
+
+.set,.field {
+  width:30px;
+}
+
+.duration {
+  width: 50px;
+}
