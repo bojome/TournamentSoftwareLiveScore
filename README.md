@@ -14,7 +14,7 @@ Usage
 the url-parameters for index.php are:
 
 * tid ==> tournament-id, for example: F2C4D636-7B1D-4AF7-8BC5-5D9090F9E1E6
-* pids ==> json-encoded array of bwf player-ids, which should get highlighted
+* pids ==> json-encoded array of bwf player-ids, which should be highlighted
 * visible ==> decide whether all games/courts are displayed or only these where filtered players are on
 
 Example
